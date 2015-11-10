@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyUtilities", "FamilyUtilities\FamilyUtilities.csproj", "{35E3A615-414D-417F-AC8A-03672C7A2023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyUtilitiesUI", "FamilyUtilitiesUI\FamilyUtilitiesUI.csproj", "{46F8E2EA-4BD0-4302-AC0F-432237D3FAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E3A615-414D-417F-AC8A-03672C7A2023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E3A615-414D-417F-AC8A-03672C7A2023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E3A615-414D-417F-AC8A-03672C7A2023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E3A615-414D-417F-AC8A-03672C7A2023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F8E2EA-4BD0-4302-AC0F-432237D3FAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F8E2EA-4BD0-4302-AC0F-432237D3FAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F8E2EA-4BD0-4302-AC0F-432237D3FAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F8E2EA-4BD0-4302-AC0F-432237D3FAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

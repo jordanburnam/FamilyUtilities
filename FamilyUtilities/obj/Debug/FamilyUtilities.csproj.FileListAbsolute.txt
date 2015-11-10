@@ -1,0 +1,7 @@
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\obj\Debug\FamilyUtilities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\obj\Debug\FamilyUtilities.csproj.ResolveComReference.cache
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\bin\Debug\FamilyUtilities.dll
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\bin\Debug\FamilyUtilities.pdb
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\obj\Debug\FamilyUtilities.dll
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilities\obj\Debug\FamilyUtilities.pdb

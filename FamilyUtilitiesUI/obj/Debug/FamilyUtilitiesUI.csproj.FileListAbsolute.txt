@@ -1,0 +1,15 @@
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\bin\Debug\FamilyUtilitiesUI.exe.config
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\bin\Debug\FamilyUtilitiesUI.exe
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\bin\Debug\FamilyUtilitiesUI.pdb
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\bin\Debug\FamilyUtilities.dll
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\bin\Debug\FamilyUtilities.pdb
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\MainWindow.baml
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\App.g.cs
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI_MarkupCompile.cache
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI.g.resources
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI.Properties.Resources.resources
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI.csproj.GenerateResource.Cache
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI.exe
+C:\Users\Admin\GitHub\FamilyUtilities\FamilyUtilitiesUI\obj\Debug\FamilyUtilitiesUI.pdb
